@@ -1,0 +1,7 @@
+ashwinkallingal\PageObjects\LoginPage.class
+ashwinkallingal\PageObjects\ConfirmationPage.class
+ashwinkallingal\AbstractComponent\AbstractComponents.class
+ashwinkallingal\PageObjects\CartPage.class
+ashwinkallingal\PageObjects\ProductCataloguePage.class
+ashwinkallingal\PageObjects\CheckOutPage.class
+ashwinkallingal\PageObjects\OrdersPage.class
